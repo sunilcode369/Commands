@@ -1,0 +1,15 @@
+
+# Initialize a new truflle project
+truffle init 
+
+#compiles the contract
+truffle compile
+
+# Deploy to blockchain via rpc
+truffle migrate
+truflle migrate --reset
+
+
+# build app
+truffle build
+
